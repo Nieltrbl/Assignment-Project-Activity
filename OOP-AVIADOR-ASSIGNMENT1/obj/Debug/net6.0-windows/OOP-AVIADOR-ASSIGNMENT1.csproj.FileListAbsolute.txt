@@ -1,0 +1,17 @@
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\bin\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.exe
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\bin\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.deps.json
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\bin\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.runtimeconfig.json
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\bin\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.dll
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\bin\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.pdb
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.csproj.AssemblyReference.cache
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP_AVIADOR_ASSIGNMENT1.Form1.resources
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.csproj.GenerateResource.cache
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.AssemblyInfoInputs.cache
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.AssemblyInfo.cs
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.csproj.CoreCompileInputs.cache
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.dll
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\refint\OOP-AVIADOR-ASSIGNMENT1.dll
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.pdb
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\OOP-AVIADOR-ASSIGNMENT1.genruntimeconfig.cache
+C:\Users\D'Aviador\source\repos\OOP-AVIADOR-ASSIGNMENT1\OOP-AVIADOR-ASSIGNMENT1\obj\Debug\net6.0-windows\ref\OOP-AVIADOR-ASSIGNMENT1.dll
